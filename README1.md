@@ -1,70 +1,67 @@
-# README
-
 # Hello!
+World
 
-<!— Headings —>
+<!-- Headings -->
 # Heading 1
 ## Heading 2
 ### Heading 3
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+ 
+<!-- Italics -->
+This text is italic
+ 
+This text is italic
 
-<!— Italics —>
+<!-- Strong -->
 This text is italic
 
 This text is italic
 
-<!— Strong —>
-This text is italic
-
-This text is italic
-
-<!— Strilethrough —>
+<!-- Strilethrough -->
 This text is strikethrough
 
-<!— Horizontal Rule —>
+<!-- Horizontal Rule -->
 
 ---
 ---
 
-<!— Blockquote —>
+<!-- Blockquote -->
 >This is a quote
 
-<!— Links —>
+<!-- Links -->
 [Traversy Media](http://www.traversymedia.com/)
 
 [Traversy Media](http://www.traversymedia.com/ "Traversy Media")
 
-<!— UL —>
+<!-- UL -->
 * Item 1
 * Item 2
 * Item 3
-* Nested Item 1
-* Nested Item 2
+  * Nested Item 1
+  * Nested Item 2
 
-<!— OL —>
+<!-- OL -->
 1. Item 1
 2. Item 2
 3. Item 3
 
-<!— Inline Code Block-->
+<!-- Inline Code Block-->
 <p>This os a paragraph</p>
 
-<!— Images —>
+<!-- Images -->
 ![Markdown Logo](https://markdown-here.com/img/icon256.png)
 
-<!— Github Markdown-->
+<!-- Github Markdown-->
 
-<!— Code Blocks —>
-```bash
+<!-- Code Blocks -->
+ 
 npm install
 
 npm start
-```
 
-```python
+
 def add(num1, num2):
 return num1+num2
 }
-```
