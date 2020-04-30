@@ -57,11 +57,14 @@ This text is strikethrough
 
 <!-- Code Blocks -->
  
+```bash
 npm install
 
 npm start
+```
 
-
+```python
 def add(num1, num2):
 return num1+num2
 }
+```
